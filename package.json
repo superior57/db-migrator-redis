@@ -1,0 +1,9 @@
+{
+  "name": "db-migrator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^4.3.1"
+  }
+}
